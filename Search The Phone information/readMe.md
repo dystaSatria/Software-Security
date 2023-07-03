@@ -2,6 +2,6 @@
 
 ## 1. Open The Google Cloud Console
 
-```bash
+Link : 
 https://console.cloud.google.com/welcome?project=chatapp-5c583&cloudshell=true
-```
+
