@@ -14,4 +14,4 @@ Various elements constitute software security. These elements can be expressed a
 - **Attack Detection and Response**: Security incidents and attacks should be quickly detected, and response plans must be developed. This is achieved through monitoring systems, security software, and incident management systems.
 
 ## Sofware Security Flow Chart 
-[](https://github.com/dystaSatria/Software-Security/blob/main/Introduction-Software-Security/UML-class-Lucidchart.png)
+()[https://github.com/dystaSatria/Software-Security/blob/main/Introduction-Software-Security/UML-class-Lucidchart.png]
