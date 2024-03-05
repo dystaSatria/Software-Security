@@ -15,4 +15,4 @@ Various elements constitute software security. These elements can be expressed a
 
 ## Sofware Security Flow Chart 
 
-[gambar](https://github.com/dystaSatria/Software-Security/blob/main/Introduction-Software-Security/UML-class-Lucidchart.jpg)
+![gambar](https://github.com/dystaSatria/Software-Security/blob/main/Introduction-Software-Security/UML-class-Lucidchart.jpg)
