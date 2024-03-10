@@ -13,6 +13,8 @@ Various elements constitute software security. These elements can be expressed a
 - **Continuous Improvement and Update**: Software security is an ongoing process. As attack techniques and threats evolve over time, it is important to regularly update software and systems.
 - **Attack Detection and Response**: Security incidents and attacks should be quickly detected, and response plans must be developed. This is achieved through monitoring systems, security software, and incident management systems.
 
+- nnnnnn
+
 ## Sofware Security Flow Chart 
 
 ![gambar](https://github.com/dystaSatria/Software-Security/blob/main/Introduction-Software-Security/UML-class-Lucidchart.jpg)
