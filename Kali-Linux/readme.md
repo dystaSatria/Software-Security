@@ -51,6 +51,3 @@
 - `|` (pipe) - Sends the output from one command to another command.
 - `>` - Redirects output to a file.
 - `nano [file]` / `vim [file]` - Opens a text editor to edit files.
-
-### Conclusion
-This cheatsheet only covers the basics of using the terminal in Kali Linux and is not meant to be a comprehensive guide. For more detailed information and advanced commands, referring to the official Kali Linux documentation and man pages (`man [command]`) is highly recommended.
