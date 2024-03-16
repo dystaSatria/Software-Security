@@ -1,5 +1,5 @@
 
-# Kali Linux 
+# Kali Linux Terminal 
 
 #### Basic Navigation
 - `pwd` - Prints the current directory.
